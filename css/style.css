@@ -46,6 +46,12 @@
   padding-top: 90px;
   padding-bottom: 90px;
 }
+
+h1 {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
 .white {
   background-color: whitesmoke;
   color: #000914;
@@ -95,6 +101,15 @@ button {
 }
 .featurette {
   display: flex;
+}
+
+.teamalgo {
+  text-align: center;
+  justify-content: center;
+}
+
+.adjusttext {
+  font-size: 0.7rem;
 }
 
 .featurette-heading{

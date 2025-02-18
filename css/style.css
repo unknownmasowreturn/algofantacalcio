@@ -77,6 +77,12 @@ h1 {
   justify-content: center;
 }
 
+.carousel-caption {
+  background: rgba(0, 9, 20, 0.3); /* Semi-transparent black */
+  padding: 20px;
+  border-radius: 10px; /* Optional: Adds rounded corners */
+}
+
 .form-control {
   max-width: 200px; /* Adjust this value as needed */
   width: 100%;

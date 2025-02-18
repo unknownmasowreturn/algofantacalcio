@@ -103,6 +103,10 @@ button {
   display: flex;
 }
 
+.carousel-indicators {
+  margin-bottom: -30px;
+}
+
 .teamalgo {
   text-align: center;
   justify-content: center;
